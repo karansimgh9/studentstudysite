@@ -1,0 +1,14 @@
+
+    {
+        "python.analysis.diagnosticSeverityOverrides": {
+            "reportMissingImports": "none"
+        }
+    },
+    {
+    "bracketPairColorizer.activeScopeCSS": [
+
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.5"
+    ]
+}
